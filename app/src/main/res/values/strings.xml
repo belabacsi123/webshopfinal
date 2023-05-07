@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">TechWebshopFinal</string>
+    <string name="welcome_string">Welcome to the Tech Webshop!</string>
+    <string name="to_continue_using_the_site_please_log_in_first">To continue using the site please log in first!</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="email_address">Email address</string>
+    <string name="password_verification">Password verification</string>
+    <string name="sign_up_lower">Sign up</string>
+    <string name="cancel">Cancel</string>
+    <string name="search">Search</string>
+    <string name="logout">Sign out</string>
+    <string name="cart">Cart</string>
+
+    <string name="item_placeholder">Description</string>
+    <string name="item_info_placeholder">Information</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="delete">Delete</string>
+
+    <string-array name="shopping_item_names">
+        <item>Gaming PC</item>
+        <item>Graphics Card</item>
+        <item>Processor</item>
+        <item>RAM</item>
+        <item>Motherboard</item>
+
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Expect lighting fast speeds and peak performance with this gaming PC featuring the latest Intel or AMD processor.</item>
+        <item>A graphics card or colloquially GPU is a computer expansion card that generates a feed of graphics output to a display device such as a monitor.</item>
+        <item>Take on the most demanding games with the massive performance boost delivered by the new generation CPUs!</item>
+        <item>This RGB Memory Upgrade offers a brilliant RGB design combined with extreme overclocked performance, taking your PC to the extreme. Not only can you destroy the competition, but your system can look good while doing so.</item>
+        <item>This military grade motherboard fights alongside gamers in pursuit of honor as the motherboard platform of choice for gamers!</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>1</item>
+        <item>4.5</item>
+        <item>2.5</item>
+        <item>3.5</item>
+        <item>5</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/gamingpc</item>
+        <item>@drawable/graphicscard</item>
+        <item>@drawable/processor</item>
+        <item>@drawable/trident</item>
+        <item>@drawable/motherboard</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>799 990 HUF</item>
+        <item>259 000 HUF</item>
+        <item>109 990 HUF</item>
+        <item>31 990 HUF</item>
+        <item>119 990 HUF</item>
+    </array>
+
+</resources>

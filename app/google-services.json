@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664811158950",
+    "project_id": "techwebshopfinal",
+    "storage_bucket": "techwebshopfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664811158950:android:a1ff5ebc62e7c5e4802367",
+        "android_client_info": {
+          "package_name": "com.example.techwebshopfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664811158950-2o2v1tvfv1vrcgbsj58l5n13b7q07cap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9fPZwAWjDzVZk8eIMKjtqIdsLLMCYMFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664811158950-2o2v1tvfv1vrcgbsj58l5n13b7q07cap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
